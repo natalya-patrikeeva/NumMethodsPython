@@ -1,2 +1,2 @@
-# NumMethodsPython
-Numerical Methods using Python (Coursera)
+# Numerican Methods using Python (Coursera)
+Jupyter notebooks for the Numerical Methods using Python course
